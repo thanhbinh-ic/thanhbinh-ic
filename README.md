@@ -1,8 +1,39 @@
 ## Hi I'm Binh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engenieer _ :desert_island:Living in ThaiNguyen 🏙️
+
+  ```js
+export default () => ({
+  
+  AskMeAbout: [
+  "fullstack-dev", "blockchain-development",
+    "application-dev", "web-dev", "machine-learning",
+    "mathematics", loading ...
+  ],
+  Industry Knowledge: {
+    App - Development: {
+        Cross-Platform Frameworks : ["flutter", loading ...]
+        },
+    Machine - Learning:  {
+      frameworks : ["pyTorch", loading ...]
+    },
+    Web - Development : {
+      Front-End : ["ReactJS", "Redux" , "Bootstrap", "tailwindCSS", ...],
+      Back-End : ["Node.JS", loading ...],
+      Misc: ["bash", loading ...]
+    }
+  },
+  Technologies: {
+    Core : ["python", "javascript", "SQL", "C", "C ++", "javascript", loading ...],
+    Frameworks & Libraries: [ 'Redux', 'Pytorch', 'Flask', 'Django', 'Flutter', 'Android',
+                            'Pandas', 'Numpy', 'Seaborn', 'Matplotlib',...and loading],
+    Others : ["git", "css", "php", "IoT", loading ...],
+  },
+  
+});
+```
 
 ### My Tech Stack
 
@@ -50,6 +81,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=william-monroy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 <h3 align="left"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(3).gif" width="50"> Connect with me</h3>
 <a href="https://fb.com/binhxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhbinh" height="30" width="40" /></a>
