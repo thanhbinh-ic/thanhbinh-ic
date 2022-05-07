@@ -1,8 +1,8 @@
-## Hi I'm Binh :fox_face:
+## Hi I'm Binh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engenieer _ :desert_island:Living in ThaiNguyen 🏙️
 
 ### My Tech Stack
 
@@ -27,6 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -42,4 +43,13 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Gaboso](https://github.com/Gaboso)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
+<p align="center">
+<a href="https://github.com/william-monroy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=william-monroy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=william-monroy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<h3 align="left"><img src="https://github.com/ShenggKai/ShenggKai/blob/master/ezgif.com-gif-maker%20(3).gif" width="50"> Connect with me</h3>
+<a href="https://fb.com/binhxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhbinh" height="30" width="40" /></a>
